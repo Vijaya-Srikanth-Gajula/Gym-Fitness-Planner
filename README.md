@@ -38,71 +38,7 @@ Implement a calorie calculator.
 💡 Contributions
 Feel free to fork this repository, submit issues, or contribute to improving this project.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+code goes here
 <!DOCTYPE html>
 <html lang="en">
 <head>
